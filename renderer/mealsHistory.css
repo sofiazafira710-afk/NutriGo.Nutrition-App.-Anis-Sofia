@@ -1,0 +1,163 @@
+
+/* General Page */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f5e9;
+    margin: 0;
+    padding: 30px;
+    color: #333;
+}
+
+/* Main Heading */
+h1 {
+    text-align: center;
+    color: #26734d;
+    margin-bottom: 30px;
+}
+
+/* Edit Form */
+#editForm {
+    background: white !important;
+    max-width: 400px;
+    margin: 0 auto 30px;
+    padding: 20px !important;
+    border-radius: 10px !important;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+#editForm label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#editForm input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+#editForm button {
+    background: #26734d !important;
+    color: white !important;
+    padding: 10px 15px !important;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Weekly Plan Container */
+.week-section {
+    background: white;
+    max-width: 1200px;
+    margin: 0 auto 30px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.week-section h2 {
+    color: #26734d;
+    border-bottom: 2px solid #e8f5e9;
+    padding-bottom: 10px;
+}
+
+/* Week Information */
+.week-section p {
+    line-height: 1.8;
+    color: #444;
+}
+
+/* Seven Days Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    margin-top: 20px;
+}
+
+/* Individual Day Card */
+.day-card {
+    background: #f1f8f2;
+    padding: 18px;
+    border-radius: 10px;
+    border: 1px solid #d5e8d8;
+}
+
+.day-card h3 {
+    color: #26734d;
+    text-transform: capitalize;
+    border-bottom: 1px solid #d5e8d8;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Meal Details */
+.mealsCard {
+    line-height: 1.7;
+    font-size: 14px;
+}
+
+.day-card p {
+    color: #777;
+    font-size: 14px;
+}
+
+/* General Buttons */
+button {
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 14px;
+    transition: 0.3s;
+}
+
+/* Edit Button */
+.edit-btn {
+    background: #26734d;
+    color: white;
+    margin-left: 8px;
+}
+
+.edit-btn:hover {
+    background: #185a39;
+}
+
+/* Clear Button */
+.delete-day-btn {
+    background: #f5dede;
+    color: #b33939;
+    font-size: 12px;
+}
+
+.delete-day-btn:hover {
+    background: #e9bebe;
+}
+
+/* Responsive Design */
+@media (max-width: 800px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 550px) {
+    body {
+        padding: 15px;
+    }
+
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+
+    .week-section {
+        padding: 15px;
+    }
+}

@@ -1,0 +1,243 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /*background-color: #fafcd0;*/
+  text-align: center;
+  padding: 40px;
+  color: #004d40;
+  min-height: 100vh;
+  
+  width: 100vw;
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(
+        to bottom,
+        #032d25 0%,
+        #0b5a43 20%,
+        #7ad97a 45%,
+        #f6f5e8 65%,
+        #f6f5e8 100%
+    );
+}
+
+h1 {
+  font-family:'Playfair Display', serif;
+  font-style: italic; 
+  font-size:56px;
+  font-weight:800;
+  color:white;
+  margin-bottom:10px;
+}
+
+input, textarea {
+  padding: 10px;
+  border: 1px solid #80cbc4;
+  border-radius: 8px;
+  margin: 8px;
+  width: 250px;
+}
+
+button {
+  background-color: #00796b;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background-color: #004d40;
+}
+
+.navbar{
+    width:85%;
+    margin:20px auto;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:20px 40px;
+
+    background:rgba(255,255,255,0.15);
+
+    backdrop-filter:blur(15px);
+
+    border-radius:20px;
+}
+
+.logo{
+    color:white;
+    font-size:24px;
+    font-weight:700;
+}
+
+.menu a{
+    color:white;
+    text-decoration:none;
+    margin-left:25px;
+    font-weight:500;
+}
+
+/* Calorie Form Container */
+#countCaloriesForm {
+    max-width: 450px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: left;
+}
+
+/* Form Heading */
+#countCaloriesForm h3 {
+    color: #26734d;
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+/* Labels */
+#countCaloriesForm label {
+    display: block;
+    width: 100%;
+    text-align: left;
+    margin: 15px 0 7px;
+    color: #333;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+/* Input Fields */
+#countCaloriesForm input {
+    width: 100%;
+    padding: 13px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background: white;
+    font-size: 16px;
+}
+
+/* Dropdown */
+#countCaloriesForm select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: white;
+    font-size: 16px;
+}
+
+/* Calculate Button */
+#countCaloriesForm button {
+    display: block;
+    margin: 25px auto 5px;
+    padding: 13px 25px;
+    background: #26734d;
+    color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Container to hold the cards */
+.card-container {
+  display: grid;
+  /* Automatically creates 3 equal columns on desktop */
+  grid-template-columns: repeat(3, 1fr); 
+  /* Spacing between the cards */
+  gap: 20px; 
+  padding: 20px;
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+/* Individual card styling */
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0 4px 6px rgba(120, 120, 120, 0.1);
+  border: 1px solid #e2e8f0;
+}
+
+
+/* Diet Container */
+.diet_container {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: #f1f8e9;
+}
+
+/* Individual Diet Section */
+.card_diet {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+/* Diet Image */
+.card_diet img {
+    width: 60%;
+    height: 380px;
+    object-fit: cover;
+    border: 5px solid white;
+    border-radius: 25px;
+}
+
+/* Diet Information */
+.diet_content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+/* Diet Heading */
+.diet_content h3 {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+}
+
+/* Diet Description */
+.diet_content p {
+    color: #004d40;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* Diet Button */
+.diet_content button {
+    width: 140px;
+    padding: 12px;
+    background-color: #00796b;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+/* Alternate Image Position */
+.card_diet:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+#result{
+  width: 50%;
+  max-width: 600px;
+  margin: 20px auto; 
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Makes lists and nutrition text look cleaner */
+}
+

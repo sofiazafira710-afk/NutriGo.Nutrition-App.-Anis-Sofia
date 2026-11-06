@@ -1,0 +1,77 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f5e9;
+    margin: 0;
+    padding: 30px;
+    color: #333;
+}
+
+.meal-container {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 12px;
+}
+
+.meal-container h1 {
+    color: #26734d;
+    text-align: center;
+}
+
+.meal-container p {
+    text-align: center;
+}
+
+.meal-container label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.meal-container input,
+.meal-container select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px 18px;
+    background: #26734d;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #185a39;
+}
+
+#mealOutput {
+    margin-top: 25px;
+    padding: 15px;
+    background: #f1f8f2;
+    border-radius: 10px;
+}
+
+#day-card {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    color: #26734d;
+}
+
+.meal-actions {
+    text-align: center;
+}

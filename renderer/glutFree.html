@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gluten-Free Meal Plan</title>
+    <link rel="stylesheet" href="dietstyle.css">
+</head>
+
+<body>
+
+    <div class="meal-container">
+        <h1>Gluten-Free Meal Planner</h1>
+        <p>Plan your healthy meals without gluten.</p>
+
+        <!--User enter info about themselve to generate meals plan-->
+        <form id="mealForm">
+            
+            <!--Name-->
+            <label>Name</label>
+            <input type="text" id="name" placeholder="Enter your name">
+            
+            <!--Age-->
+            <label>Age</label>
+            <input type="number" id="age">
+            
+            <!--Goal-->
+            <label>Meal Plan Goal</label>
+            <select id="goal">
+                <option value="">Select your goal</option>
+                <option value="Healthy Eating">Healthy Eating</option>
+                <option value="Weight Management">Weight Management</option>
+                <option value="Muscle Building">Muscle Building</option>
+            </select>
+            
+            <!--Calories-->
+            <label>Target Calories</label>
+            <input type="number" id="calories">
+            
+            <!--Allergies-->
+            <label>Allergies</label>
+            <input type="text" id="allergies" placeholder="Enter other allergies">
+            
+            <!--Submit Button to generate meals plan for a week-->
+            <button id="generatePlan" type="submit">Generate Meal Plan</button>
+            
+        </form>
+
+        <!--Displaying 7 days of meals planning-->
+        <div id="mealOutput" style="display:none;">
+            <h2>Your Meal Plan</h2>
+            <div id="resultDietDiv"></div>
+        </div>
+
+    </div>
+
+    <!--Save Meals Plan into json file-->
+    <div style="text-align: center;margin-top: 20px;">
+    <button type="button" id="saveMealsBtn">Save Meals Plan</button>
+    <button type="button" id="viewMealsBtn">View Your Meals Plan</button>
+    </div>
+    <script src="glutFree.js"></script>
+    
+</body>
+</html>

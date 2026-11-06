@@ -1,0 +1,1309 @@
+[
+  {
+    "myname": "anis",
+    "goal": "Healthy Eating",
+    "targetCalories": "2100",
+    "exclude": "",
+    "daysOfWeek": {
+      "monday": {
+        "meals": [
+          {
+            "id": 655786,
+            "image": "Persimmons-Pumpkin-Orange-Smoothie-655786.jpg",
+            "imageType": "jpg",
+            "title": "Persimmons Pumpkin Orange Smoothie With Chia Seeds",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.foodista.com/recipe/CZF2KGGJ/persimmons-pumpkin-orange-smoothie"
+          },
+          {
+            "id": 641387,
+            "image": "Delicious-Creamy-Lentils-and-Chestnuts-Soup-641387.jpg",
+            "imageType": "jpg",
+            "title": "Delicious Creamy Lentils and Chestnuts Soup",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/6NB227RW/delicious-creamy-lentils-and-chestnuts-soup"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          }
+        ],
+        "nutrients": {
+          "calories": 2098.84,
+          "protein": 80.85,
+          "fat": 141.86,
+          "carbohydrates": 140.68
+        }
+      },
+      "tuesday": {
+        "meals": [],
+        "nutrients": {
+          "calories": 0,
+          "protein": 0,
+          "fat": 0,
+          "carbohydrates": 0
+        }
+      },
+      "wednesday": {
+        "meals": [
+          {
+            "id": 636392,
+            "image": "Buckwheat-Crepes-636392.jpg",
+            "imageType": "jpg",
+            "title": "Buckwheat Crepes",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/MVWCZNGC/buckwheat-crepes"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 641166,
+            "image": "Cutlets-with-balsamic-vinegar--thyme-and-Parmesan-mashed-potatoes-641166.jpg",
+            "imageType": "jpg",
+            "title": "Cutlets with balsamic vinegar, thyme and Parmesan mashed potatoes",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/W6667Q8G/cutlets-with-balsamic-vinegar-thyme-and-parmesan-mashed-potatoes"
+          }
+        ],
+        "nutrients": {
+          "calories": 2099.84,
+          "protein": 105.91,
+          "fat": 121.46,
+          "carbohydrates": 152.73
+        }
+      },
+      "thursday": {
+        "meals": [
+          {
+            "id": 636392,
+            "image": "Buckwheat-Crepes-636392.jpg",
+            "imageType": "jpg",
+            "title": "Buckwheat Crepes",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/MVWCZNGC/buckwheat-crepes"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 641166,
+            "image": "Cutlets-with-balsamic-vinegar--thyme-and-Parmesan-mashed-potatoes-641166.jpg",
+            "imageType": "jpg",
+            "title": "Cutlets with balsamic vinegar, thyme and Parmesan mashed potatoes",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/W6667Q8G/cutlets-with-balsamic-vinegar-thyme-and-parmesan-mashed-potatoes"
+          }
+        ],
+        "nutrients": {
+          "calories": 2099.84,
+          "protein": 105.91,
+          "fat": 121.46,
+          "carbohydrates": 152.73
+        }
+      },
+      "friday": {
+        "meals": [
+          {
+            "id": 716432,
+            "image": "finger-foods-frittata-muffins-incredibleegg-716432.jpg",
+            "imageType": "jpg",
+            "title": "Finger Foods: Frittata Muffins",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://fullbellysisters.blogspot.com/2014/05/finger-foods-frittata-muffins.html"
+          },
+          {
+            "id": 650484,
+            "image": "Luscious-Palak-Paneer-650484.jpg",
+            "imageType": "jpg",
+            "title": "Luscious Palak Paneer",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/WKQQKG5K/luscious-palak-paneer"
+          },
+          {
+            "id": 633932,
+            "image": "Balsamic-Marinated-Lamb-Chops-633932.jpg",
+            "imageType": "jpg",
+            "title": "Balsamic Marinated Lamb Chops",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/2H3M2FWV/balsamic-marinated-lamb-chops"
+          }
+        ],
+        "nutrients": {
+          "calories": 2101.1,
+          "protein": 109.24,
+          "fat": 162.87,
+          "carbohydrates": 50.62
+        }
+      },
+      "saturday": {
+        "meals": [
+          {
+            "id": 641047,
+            "image": "Curious-Georges-Gluten-Free-Banana-Nut-Bread-641047.jpg",
+            "imageType": "jpg",
+            "title": "Curious George's Gluten-Free Banana Nut Bread",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "https://www.foodista.com/recipe/YMQJ634D/curious-georges-gluten-free-banana-nut-bread"
+          },
+          {
+            "id": 1096017,
+            "image": "mexican-chicken-rice-bowl-1096017.jpg",
+            "imageType": "jpg",
+            "title": "Mexican Chicken & Rice Bowl",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/K6M5RCKM/mexican-chicken-rice-bowl"
+          },
+          {
+            "id": 640722,
+            "image": "Creamy-White-Chili-640722.jpg",
+            "imageType": "jpg",
+            "title": "Creamy White Chili",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/5QVKF6LG/creamy-white-chili"
+          }
+        ],
+        "nutrients": {
+          "calories": 2101.03,
+          "protein": 120.56,
+          "fat": 120.18,
+          "carbohydrates": 143.95
+        }
+      },
+      "sunday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 1096017,
+            "image": "mexican-chicken-rice-bowl-1096017.jpg",
+            "imageType": "jpg",
+            "title": "Mexican Chicken & Rice Bowl",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/K6M5RCKM/mexican-chicken-rice-bowl"
+          },
+          {
+            "id": 633119,
+            "image": "Avocado---Tomato-Salad-Topped-with-Grilled-Shrimp-633119.jpg",
+            "imageType": "jpg",
+            "title": "Avocado & Tomato Salad Topped with Grilled Shrimp",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/VJ2PG4F5/avocado-tomato-salad-topped-with-grilled-shrimp"
+          }
+        ],
+        "nutrients": {
+          "calories": 2100.02,
+          "protein": 169.17,
+          "fat": 83.51,
+          "carbohydrates": 182.02
+        }
+      }
+    }
+  },
+  {
+    "myname": "Zafira",
+    "goal": "Weight Management",
+    "targetCalories": "2500",
+    "exclude": "",
+    "daysOfWeek": {
+      "monday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 636236,
+            "image": "Broccoli--Dried-Cranberry-and-Smokey-Bacon-Salad-636236.jpg",
+            "imageType": "jpg",
+            "title": "Broccoli, Dried Cranberry and Smokey Bacon Salad",
+            "readyInMinutes": 45,
+            "servings": 10,
+            "sourceUrl": "https://www.foodista.com/recipe/Z68LBJYX/broccoli-dried-cranberry-and-smokey-bacon-salad"
+          }
+        ],
+        "nutrients": {
+          "calories": 2495.02,
+          "protein": 81.79,
+          "fat": 185.2,
+          "carbohydrates": 137.42
+        }
+      },
+      "tuesday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 1096017,
+            "image": "mexican-chicken-rice-bowl-1096017.jpg",
+            "imageType": "jpg",
+            "title": "Mexican Chicken & Rice Bowl",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/K6M5RCKM/mexican-chicken-rice-bowl"
+          },
+          {
+            "id": 633932,
+            "image": "Balsamic-Marinated-Lamb-Chops-633932.jpg",
+            "imageType": "jpg",
+            "title": "Balsamic Marinated Lamb Chops",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/2H3M2FWV/balsamic-marinated-lamb-chops"
+          }
+        ],
+        "nutrients": {
+          "calories": 2500.17,
+          "protein": 112.59,
+          "fat": 154.39,
+          "carbohydrates": 171.65
+        }
+      },
+      "wednesday": {
+        "meals": [
+          {
+            "id": 655786,
+            "image": "Persimmons-Pumpkin-Orange-Smoothie-655786.jpg",
+            "imageType": "jpg",
+            "title": "Persimmons Pumpkin Orange Smoothie With Chia Seeds",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.foodista.com/recipe/CZF2KGGJ/persimmons-pumpkin-orange-smoothie"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 640136,
+            "image": "Corned-Beef-And-Cabbage-With-Irish-Mustard-Sauce-640136.jpg",
+            "imageType": "jpg",
+            "title": "Corned Beef And Cabbage With Irish Mustard Sauce",
+            "readyInMinutes": 270,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/B8Z4H57G/corned-beef-and-cabbage-with-mustard-sauce"
+          }
+        ],
+        "nutrients": {
+          "calories": 2481.36,
+          "protein": 111.99,
+          "fat": 176.04,
+          "carbohydrates": 126.26
+        }
+      },
+      "thursday": {
+        "meals": [
+          {
+            "id": 645032,
+            "image": "Goldilocks-Chia-Seed-Porridge-645032.jpg",
+            "imageType": "jpg",
+            "title": "Goldilocks Chia Seed Porridge",
+            "readyInMinutes": 15,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/SHSG4TQK/goldilocks-chia-seed-porridge"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 648983,
+            "image": "Knishes---Potato-Filling-648983.jpg",
+            "imageType": "jpg",
+            "title": "Knishes - Potato Filling",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/TF2CGZY3/knishes-potato-filling"
+          }
+        ],
+        "nutrients": {
+          "calories": 2502.13,
+          "protein": 82.47,
+          "fat": 181.95,
+          "carbohydrates": 139.86
+        }
+      },
+      "friday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 1697593,
+            "image": "buffalo-chicken-thighs-1697593.jpg",
+            "imageType": "jpg",
+            "title": "Buffalo Chicken Thighs",
+            "readyInMinutes": 50,
+            "servings": 2,
+            "sourceUrl": "https://maplewoodroad.com/buffalo-chicken-thighs/"
+          }
+        ],
+        "nutrients": {
+          "calories": 2505.71,
+          "protein": 112.82,
+          "fat": 182.46,
+          "carbohydrates": 108.88
+        }
+      },
+      "saturday": {
+        "meals": [
+          {
+            "id": 622598,
+            "image": "Pittata---Pizza-Frittata-622598.jpg",
+            "imageType": "jpg",
+            "title": "Pittata - Pizza Frittata",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://spoonacular.com/-1418233867224"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 650487,
+            "image": "Lusciously-Lemony-Lentil-Soup-650487.jpg",
+            "imageType": "jpg",
+            "title": "Lusciously Lemony Lentil Soup",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/RFKZ88M8/lusciously-lemony-lentil-soup"
+          }
+        ],
+        "nutrients": {
+          "calories": 2507.31,
+          "protein": 138.35,
+          "fat": 193.13,
+          "carbohydrates": 55.43
+        }
+      },
+      "sunday": {
+        "meals": [
+          {
+            "id": 644854,
+            "image": "Gluten-Free-Quinoa-and-Corn-Flour-Crepes-644854.jpg",
+            "imageType": "jpg",
+            "title": "Gluten Free Quinoa and Corn Flour Crepes",
+            "readyInMinutes": 60,
+            "servings": 4,
+            "sourceUrl": "http://www.foodista.com/recipe/MGMB6CBY/gluten-free-quinoa-and-corn-flour-crepes"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 648983,
+            "image": "Knishes---Potato-Filling-648983.jpg",
+            "imageType": "jpg",
+            "title": "Knishes - Potato Filling",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/TF2CGZY3/knishes-potato-filling"
+          }
+        ],
+        "nutrients": {
+          "calories": 2503.6,
+          "protein": 72.43,
+          "fat": 172.72,
+          "carbohydrates": 171.22
+        }
+      }
+    }
+  },
+  {
+    "myname": "Faris",
+    "goal": "Weight Management",
+    "targetCalories": "2100",
+    "exclude": "prawn",
+    "daysOfWeek": {
+      "monday": {
+        "meals": [
+          {
+            "id": 636392,
+            "image": "Buckwheat-Crepes-636392.jpg",
+            "imageType": "jpg",
+            "title": "Buckwheat Crepes",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/MVWCZNGC/buckwheat-crepes"
+          },
+          {
+            "id": 1096017,
+            "image": "mexican-chicken-rice-bowl-1096017.jpg",
+            "imageType": "jpg",
+            "title": "Mexican Chicken & Rice Bowl",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/K6M5RCKM/mexican-chicken-rice-bowl"
+          },
+          {
+            "id": 633932,
+            "image": "Balsamic-Marinated-Lamb-Chops-633932.jpg",
+            "imageType": "jpg",
+            "title": "Balsamic Marinated Lamb Chops",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/2H3M2FWV/balsamic-marinated-lamb-chops"
+          }
+        ],
+        "nutrients": {
+          "calories": 2099.86,
+          "protein": 112.74,
+          "fat": 125.52,
+          "carbohydrates": 136
+        }
+      },
+      "tuesday": {
+        "meals": [
+          {
+            "id": 658624,
+            "image": "Roasted-Plum-Oatmeal-658624.jpg",
+            "imageType": "jpg",
+            "title": "Roasted Plum Oatmeal",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/2ZWYP8RM/roasted-plum-oatmeal"
+          },
+          {
+            "id": 650378,
+            "image": "Low-Carb-Curry-Chicken-Salad-650378.jpg",
+            "imageType": "jpg",
+            "title": "Curry Chicken Salad",
+            "readyInMinutes": 25,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/RSNP5GR2/low-carb-curry-chicken-salad"
+          },
+          {
+            "id": 640136,
+            "image": "Corned-Beef-And-Cabbage-With-Irish-Mustard-Sauce-640136.jpg",
+            "imageType": "jpg",
+            "title": "Corned Beef And Cabbage With Irish Mustard Sauce",
+            "readyInMinutes": 270,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/B8Z4H57G/corned-beef-and-cabbage-with-mustard-sauce"
+          }
+        ],
+        "nutrients": {
+          "calories": 2100.27,
+          "protein": 104.29,
+          "fat": 144.58,
+          "carbohydrates": 102.49
+        }
+      },
+      "wednesday": {
+        "meals": [
+          {
+            "id": 655786,
+            "image": "Persimmons-Pumpkin-Orange-Smoothie-655786.jpg",
+            "imageType": "jpg",
+            "title": "Persimmons Pumpkin Orange Smoothie With Chia Seeds",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.foodista.com/recipe/CZF2KGGJ/persimmons-pumpkin-orange-smoothie"
+          },
+          {
+            "id": 1160166,
+            "image": "how-to-make-an-amazing-chicken-salad-with-apples-and-celery-1160166.jpg",
+            "imageType": "jpg",
+            "title": "How to Make an Amazing Chicken Salad with Apples and Celery",
+            "readyInMinutes": 10,
+            "servings": 3,
+            "sourceUrl": "https://www.pinkwhen.com/healthy-chicken-salad-with-apples/"
+          },
+          {
+            "id": 649487,
+            "image": "Lemon---Garlic-Chicken-649487.jpg",
+            "imageType": "jpg",
+            "title": "Lemon - Garlic Chicken",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/8MG4RL8G/lemon-garlic-chicken"
+          }
+        ],
+        "nutrients": {
+          "calories": 2099.95,
+          "protein": 165.05,
+          "fat": 125.93,
+          "carbohydrates": 92.26
+        }
+      },
+      "thursday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 650378,
+            "image": "Low-Carb-Curry-Chicken-Salad-650378.jpg",
+            "imageType": "jpg",
+            "title": "Curry Chicken Salad",
+            "readyInMinutes": 25,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/RSNP5GR2/low-carb-curry-chicken-salad"
+          },
+          {
+            "id": 982368,
+            "image": "chicken-fajita-stuffed-bell-pepper-982368.jpg",
+            "imageType": "jpg",
+            "title": "Chicken Fajita Stuffed Bell Pepper",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.pinkwhen.com/chicken-fajita-stuffed-bell-pepper/"
+          }
+        ],
+        "nutrients": {
+          "calories": 2100.39,
+          "protein": 99.38,
+          "fat": 121.74,
+          "carbohydrates": 159.52
+        }
+      },
+      "friday": {
+        "meals": [
+          {
+            "id": 511692,
+            "image": "awesome-antioxidant-smoothie-511692.jpg",
+            "imageType": "jpg",
+            "title": "Awesome Antioxidant Smoothie",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://pickfreshfoods.com/awesome-antioxidant-smoothie/"
+          },
+          {
+            "id": 1096017,
+            "image": "mexican-chicken-rice-bowl-1096017.jpg",
+            "imageType": "jpg",
+            "title": "Mexican Chicken & Rice Bowl",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/K6M5RCKM/mexican-chicken-rice-bowl"
+          },
+          {
+            "id": 661055,
+            "image": "Spicy-Chili-w-Boneless-Beef-Short-Ribs-661055.jpg",
+            "imageType": "jpg",
+            "title": "Spicy Chili w Boneless Beef Short Ribs",
+            "readyInMinutes": 45,
+            "servings": 6,
+            "sourceUrl": "http://www.foodista.com/recipe/Y4HNTZ6S/spicy-chili-w-boneless-beef-short-ribs"
+          }
+        ],
+        "nutrients": {
+          "calories": 2100.42,
+          "protein": 166.68,
+          "fat": 102.34,
+          "carbohydrates": 132.21
+        }
+      },
+      "saturday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 1096017,
+            "image": "mexican-chicken-rice-bowl-1096017.jpg",
+            "imageType": "jpg",
+            "title": "Mexican Chicken & Rice Bowl",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/K6M5RCKM/mexican-chicken-rice-bowl"
+          },
+          {
+            "id": 633119,
+            "image": "Avocado---Tomato-Salad-Topped-with-Grilled-Shrimp-633119.jpg",
+            "imageType": "jpg",
+            "title": "Avocado & Tomato Salad Topped with Grilled Shrimp",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/VJ2PG4F5/avocado-tomato-salad-topped-with-grilled-shrimp"
+          }
+        ],
+        "nutrients": {
+          "calories": 2100.02,
+          "protein": 169.17,
+          "fat": 83.51,
+          "carbohydrates": 182.02
+        }
+      },
+      "sunday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 650378,
+            "image": "Low-Carb-Curry-Chicken-Salad-650378.jpg",
+            "imageType": "jpg",
+            "title": "Curry Chicken Salad",
+            "readyInMinutes": 25,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/RSNP5GR2/low-carb-curry-chicken-salad"
+          },
+          {
+            "id": 982368,
+            "image": "chicken-fajita-stuffed-bell-pepper-982368.jpg",
+            "imageType": "jpg",
+            "title": "Chicken Fajita Stuffed Bell Pepper",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.pinkwhen.com/chicken-fajita-stuffed-bell-pepper/"
+          }
+        ],
+        "nutrients": {
+          "calories": 2100.39,
+          "protein": 99.38,
+          "fat": 121.74,
+          "carbohydrates": 159.52
+        }
+      }
+    }
+  },
+  {
+    "myname": "hariz",
+    "goal": "Healthy Eating",
+    "targetCalories": "1900",
+    "exclude": "",
+    "daysOfWeek": {
+      "monday": {
+        "meals": [
+          {
+            "id": 658850,
+            "image": "Royal-Wedding-Pear-and-Coriander-Scones-658850.jpg",
+            "imageType": "jpg",
+            "title": "Royal Wedding Pear and Coriander Scones",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "https://www.foodista.com/recipe/FS6V8XD5/royal-wedding-pear-and-coriander-scones"
+          },
+          {
+            "id": 1098387,
+            "image": "quinoa-salad-with-barberries-nuts-1098387.jpg",
+            "imageType": "jpg",
+            "title": "Quinoa Salad with Barberries & Nuts",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/PBQJCDDG/quinoa-salad-with-barberries-nuts"
+          },
+          {
+            "id": 649405,
+            "image": "Lebanese-Lentil-Soup-649405.jpg",
+            "imageType": "jpg",
+            "title": "Lebanese Lentil Soup",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/XSWN5NTY/lebanese-lentil-soup"
+          }
+        ],
+        "nutrients": {
+          "calories": 1900,
+          "protein": 45.66,
+          "fat": 122.69,
+          "carbohydrates": 162.36
+        }
+      },
+      "tuesday": {
+        "meals": [
+          {
+            "id": 1747693,
+            "image": "your-basic-low-carb-breakfast-1747693.jpg",
+            "imageType": "jpg",
+            "title": "Your Basic Low Carb Breakfast",
+            "readyInMinutes": 7,
+            "servings": 1,
+            "sourceUrl": "https://supersimplelowcarb.com/blogs/low-carb-recipes/your-basic-low-carb-breakfast"
+          },
+          {
+            "id": 1096017,
+            "image": "mexican-chicken-rice-bowl-1096017.jpg",
+            "imageType": "jpg",
+            "title": "Mexican Chicken & Rice Bowl",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/K6M5RCKM/mexican-chicken-rice-bowl"
+          },
+          {
+            "id": 634625,
+            "image": "Beef-Liver-With-Onions-and-Bacon-634625.jpg",
+            "imageType": "jpg",
+            "title": "Beef Liver With Onions and Bacon",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/HPK2HKDR/beef-liver-with-onions-and-bacon"
+          }
+        ],
+        "nutrients": {
+          "calories": 1899.95,
+          "protein": 121.24,
+          "fat": 113.47,
+          "carbohydrates": 103.71
+        }
+      },
+      "wednesday": {
+        "meals": [
+          {
+            "id": 663867,
+            "image": "Tropical-Steel-Cut-Oatmeal-663867.jpg",
+            "imageType": "jpg",
+            "title": "Tropical Steel Cut Oatmeal",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/ZCNSQVZG/tropical-steel-cut-oatmeal"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 657095,
+            "image": "Prawn-Curry-657095.jpg",
+            "imageType": "jpg",
+            "title": "Prawn Curry",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "https://www.foodista.com/recipe/KLPV73MV/prawn-curry"
+          }
+        ],
+        "nutrients": {
+          "calories": 1900.28,
+          "protein": 97.79,
+          "fat": 107.64,
+          "carbohydrates": 139.58
+        }
+      },
+      "thursday": {
+        "meals": [
+          {
+            "id": 655786,
+            "image": "Persimmons-Pumpkin-Orange-Smoothie-655786.jpg",
+            "imageType": "jpg",
+            "title": "Persimmons Pumpkin Orange Smoothie With Chia Seeds",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.foodista.com/recipe/CZF2KGGJ/persimmons-pumpkin-orange-smoothie"
+          },
+          {
+            "id": 650484,
+            "image": "Luscious-Palak-Paneer-650484.jpg",
+            "imageType": "jpg",
+            "title": "Luscious Palak Paneer",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/WKQQKG5K/luscious-palak-paneer"
+          },
+          {
+            "id": 635055,
+            "image": "Black-Bean-and-Cheese-Stuffed-Bell-Peppers-635055.jpg",
+            "imageType": "jpg",
+            "title": "Black Bean and Cheese Stuffed Bell Peppers",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.foodista.com/recipe/TGTLYH2Q/black-bean-and-cheese-stuffed-bell-peppers"
+          }
+        ],
+        "nutrients": {
+          "calories": 1899.97,
+          "protein": 57.87,
+          "fat": 127.59,
+          "carbohydrates": 169.6
+        }
+      },
+      "friday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 1098354,
+            "image": "rotisserie-chicken-and-bean-toastatas-1098354.jpg",
+            "imageType": "jpg",
+            "title": "Rotisserie Chicken and Bean Tostadas",
+            "readyInMinutes": 30,
+            "servings": 3,
+            "sourceUrl": "https://www.foodista.com/recipe/YQF7DW47/rotisserie-chicken-and-bean-toastatas"
+          },
+          {
+            "id": 640621,
+            "image": "Creamy-Chicken-Tikka-Masala-640621.jpg",
+            "imageType": "jpg",
+            "title": "Creamy Chicken Tikka Masala",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/B37W5NWL/creamy-chicken-tikka-masala"
+          }
+        ],
+        "nutrients": {
+          "calories": 1899.38,
+          "protein": 89.97,
+          "fat": 115.31,
+          "carbohydrates": 137.5
+        }
+      },
+      "saturday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 637569,
+            "image": "Cheese-Pork-Chops-637569.jpg",
+            "imageType": "jpg",
+            "title": "Cheese Pork Chops",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/B8SJ2DD4/cheese-pork-chops"
+          },
+          {
+            "id": 646651,
+            "image": "Herb-chicken-with-sweet-potato-mash-and-sauted-broccoli-646651.jpg",
+            "imageType": "jpg",
+            "title": "Herb chicken with sweet potato mash and sautéed broccoli",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/NHZKT2K8/serve-a-sensationally-seasoned-chicken-dish"
+          }
+        ],
+        "nutrients": {
+          "calories": 1899.9,
+          "protein": 94.52,
+          "fat": 96.86,
+          "carbohydrates": 169.82
+        }
+      },
+      "sunday": {
+        "meals": [
+          {
+            "id": 640139,
+            "image": "Corned-Beef-Hash-with-Kale-640139.jpg",
+            "imageType": "jpg",
+            "title": "Corned Beef Hash with Kale",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/T72RMQ32/corned-beef-hash-with-kale"
+          },
+          {
+            "id": 650484,
+            "image": "Luscious-Palak-Paneer-650484.jpg",
+            "imageType": "jpg",
+            "title": "Luscious Palak Paneer",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/WKQQKG5K/luscious-palak-paneer"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          }
+        ],
+        "nutrients": {
+          "calories": 1899.83,
+          "protein": 91.26,
+          "fat": 149.31,
+          "carbohydrates": 54.52
+        }
+      }
+    }
+  },
+  {
+    "myname": "sofia",
+    "goal": "Muscle Building",
+    "targetCalories": "1970",
+    "exclude": "",
+    "daysOfWeek": {
+      "monday": {
+        "meals": [
+          {
+            "id": 646515,
+            "image": "Healthy-Southwestern-Oatmeal-646515.jpg",
+            "imageType": "jpg",
+            "title": "Healthy Southwestern Oatmeal",
+            "readyInMinutes": 15,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/JMV2JK3H/healthy-southwestern-oatmeal"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 663763,
+            "image": "Traditional-Garlic-and-Herb-Crusted-Prime-Rib-Roast-663763.jpg",
+            "imageType": "jpg",
+            "title": "Traditional Garlic and Herb Crusted Prime Rib Roast",
+            "readyInMinutes": 45,
+            "servings": 24,
+            "sourceUrl": "http://www.foodista.com/recipe/FGWST82P/traditional-garlic-and-herb-crusted-prime-rib-roast"
+          }
+        ],
+        "nutrients": {
+          "calories": 1970.04,
+          "protein": 104.83,
+          "fat": 150.23,
+          "carbohydrates": 49.64
+        }
+      },
+      "tuesday": {
+        "meals": [
+          {
+            "id": 634318,
+            "image": "Barbecued-Shrimp---Grits-634318.jpg",
+            "imageType": "jpg",
+            "title": "Barbecued Shrimp & Grits",
+            "readyInMinutes": 45,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/6V5NQDLF/bbq-shrimp-grits"
+          },
+          {
+            "id": 650484,
+            "image": "Luscious-Palak-Paneer-650484.jpg",
+            "imageType": "jpg",
+            "title": "Luscious Palak Paneer",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/WKQQKG5K/luscious-palak-paneer"
+          },
+          {
+            "id": 649850,
+            "image": "Lemon-Pepper-Fettucine-Alfredo-649850.jpg",
+            "imageType": "jpg",
+            "title": "Lemon-Pepper Fettucine Alfredo",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/JYWSRGLY/lemon-pepper-fettucine-alfredo"
+          }
+        ],
+        "nutrients": {
+          "calories": 1970.33,
+          "protein": 80.58,
+          "fat": 129.3,
+          "carbohydrates": 147.78
+        }
+      },
+      "wednesday": {
+        "meals": [
+          {
+            "id": 664280,
+            "image": "Vanilla-Bean-Cherry-Granola-Bars-664280.jpg",
+            "imageType": "jpg",
+            "title": "Vanilla Bean Cherry Granola Bars",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "https://www.foodista.com/recipe/CQMZ3THJ/vanilla-bean-cherry-granola-bars"
+          },
+          {
+            "id": 1160166,
+            "image": "how-to-make-an-amazing-chicken-salad-with-apples-and-celery-1160166.jpg",
+            "imageType": "jpg",
+            "title": "How to Make an Amazing Chicken Salad with Apples and Celery",
+            "readyInMinutes": 10,
+            "servings": 3,
+            "sourceUrl": "https://www.pinkwhen.com/healthy-chicken-salad-with-apples/"
+          },
+          {
+            "id": 661948,
+            "image": "Striploin-steak-with-roasted-cherry-tomatoes-and-vegetable-mash-661948.jpg",
+            "imageType": "jpg",
+            "title": "Strip steak with roasted cherry tomatoes and vegetable mash",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/BS5TFNHL/striploin-steak-with-roasted-cherry-tomatoes-and-vegetable-mash"
+          }
+        ],
+        "nutrients": {
+          "calories": 1969.77,
+          "protein": 128.65,
+          "fat": 121.6,
+          "carbohydrates": 96.89
+        }
+      },
+      "thursday": {
+        "meals": [
+          {
+            "id": 634848,
+            "image": "Berries-and-Cream-Yogurt-Parfait-634848.jpg",
+            "imageType": "jpg",
+            "title": "Berries and Cream Yogurt Parfait",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/8VF6HY2D/berries-and-cream-yogurt-parfait"
+          },
+          {
+            "id": 637569,
+            "image": "Cheese-Pork-Chops-637569.jpg",
+            "imageType": "jpg",
+            "title": "Cheese Pork Chops",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/B8SJ2DD4/cheese-pork-chops"
+          },
+          {
+            "id": 648983,
+            "image": "Knishes---Potato-Filling-648983.jpg",
+            "imageType": "jpg",
+            "title": "Knishes - Potato Filling",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://www.foodista.com/recipe/TF2CGZY3/knishes-potato-filling"
+          }
+        ],
+        "nutrients": {
+          "calories": 1969.05,
+          "protein": 63.61,
+          "fat": 142.73,
+          "carbohydrates": 113.16
+        }
+      },
+      "friday": {
+        "meals": [
+          {
+            "id": 622598,
+            "image": "Pittata---Pizza-Frittata-622598.jpg",
+            "imageType": "jpg",
+            "title": "Pittata - Pizza Frittata",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://spoonacular.com/-1418233867224"
+          },
+          {
+            "id": 654435,
+            "image": "Pan-Seared-Salmon-654435.jpg",
+            "imageType": "jpg",
+            "title": "Pan Seared Salmon",
+            "readyInMinutes": 25,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/ZCMGYFYW/pan-seared-salmon"
+          },
+          {
+            "id": 633932,
+            "image": "Balsamic-Marinated-Lamb-Chops-633932.jpg",
+            "imageType": "jpg",
+            "title": "Balsamic Marinated Lamb Chops",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/2H3M2FWV/balsamic-marinated-lamb-chops"
+          }
+        ],
+        "nutrients": {
+          "calories": 1970.06,
+          "protein": 113.14,
+          "fat": 155.52,
+          "carbohydrates": 22.84
+        }
+      },
+      "saturday": {
+        "meals": [
+          {
+            "id": 641781,
+            "image": "Earl-Grey-Raisin-Muffin-641781.jpg",
+            "imageType": "jpg",
+            "title": "Earl Grey Raisin Muffin",
+            "readyInMinutes": 45,
+            "servings": 10,
+            "sourceUrl": "https://www.foodista.com/recipe/JTFC63PL/earl-grey-raisin-muffin"
+          },
+          {
+            "id": 1095827,
+            "image": "ginger-garlic-and-lime-chicken-thighs-with-escarole-salad-1095827.jpg",
+            "imageType": "jpg",
+            "title": "Ginger-Garlic and Lime Chicken Thighs with Escarole Salad",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "sourceUrl": "https://www.foodista.com/recipe/84ZD6N5S/ginger-garlic-and-lime-chicken-thighs-with-escarole-salad"
+          },
+          {
+            "id": 653835,
+            "image": "Orange-Chicken-With-Brown-Rice-(Gluten-Free)-653835.jpg",
+            "imageType": "jpg",
+            "title": "Orange Chicken With Brown Rice (Gluten-Free)",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/L7577Z86/orange-chicken-with-brown-rice-gluten-free"
+          }
+        ],
+        "nutrients": {
+          "calories": 1970.05,
+          "protein": 97.23,
+          "fat": 132.96,
+          "carbohydrates": 100.79
+        }
+      },
+      "sunday": {
+        "meals": [
+          {
+            "id": 1100990,
+            "image": "blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan-1100990.jpg",
+            "imageType": "jpg",
+            "title": "Blueberry, Chocolate & Cocao Superfood Pancakes - Gluten-Free/Paleo/Vegan",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/35NX6PZB/blueberry-chocolate-cocao-superfood-pancakes-gluten-free-paleo-vegan"
+          },
+          {
+            "id": 660588,
+            "image": "Sophies-Smoked-Salmon---Ricotta-Wraps-660588.jpg",
+            "imageType": "jpg",
+            "title": "Smoked Salmon & Ricotta Wraps",
+            "readyInMinutes": 10,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/XKTZLGJY/sophies-smoked-salmon-ricotta-wraps"
+          },
+          {
+            "id": 660133,
+            "image": "Simple-Roast-Chicken-660133.jpg",
+            "imageType": "jpg",
+            "title": "Simple Roast Chicken",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/QFV873BT/simple-roast-chicken"
+          }
+        ],
+        "nutrients": {
+          "calories": 1970.13,
+          "protein": 75.5,
+          "fat": 115.87,
+          "carbohydrates": 161.81
+        }
+      }
+    }
+  }
+]

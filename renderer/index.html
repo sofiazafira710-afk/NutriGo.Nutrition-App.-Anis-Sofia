@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Food Nutrition App</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/1163/1163661.png" />
+</head>
+
+<body>
+  <div class="navbar">
+    <div class="logo">NutriGo</div>
+
+    <div class="menu">
+        <a href="#">Home</a>
+        <a href="#">Features</a>
+        <a href="#">About</a>
+    </div>
+
+    </div>
+      <h1>Discover What's Inside Your Food</h1>
+
+      <p style="color: white;">Your guide to smarter eating and healthier living.</p>
+      <input type="text" id="food" placeholder="Enter food name to know it's nutrients" />
+      <button id="searchBtn">🔍 Search</button>
+      <br>
+      <div id="result" style="display:none;"></div>
+      <br>
+      <div >
+        <h2 style="color: white;">What Features in our app?</h2>
+        <div class="card-container">
+        <div class="card">
+          <h3>Macronutrient Analysis</h3>
+          <p>Discover the protein, carbohydrates and fats
+              contained in your meals to better understand
+              your daily nutrition.</p>
+        </div>
+        <div class="card">
+          <h3>Daily Calorie Calculator</h3>
+          <p>Calculate your recommended daily calorie
+              intake based on your age, weight, height,
+              lifestyle and fitness goals.</p>
+        </div>
+        <div class="card">
+          <h3>Weekly Meal Planner</h3>
+          <p>Generate a personalised 7-day meal plan
+              based on your daily calorie target and
+              dietary preferences.</p>
+        </div>
+      </div>
+      
+    </div>
+
+    <!--Count calories-->
+    <div>
+      <h2>Calculate Your Calories</h2>
+      <p style="color:white">Find the ideal daily target for your goals!</p>
+      <button id="caloriesBtn">Calculate My Calories</button>
+
+      <div id="countCaloriesForm" style="display: none; margin-top: 20px;">
+        <h3>Enter Your Details</h3>
+        <form id="calorieForm">
+            <label>Gender:</label>
+            <select id="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+            <br>
+            <label>Age:</label>
+            <input type="number" id="age" required>
+            <br>
+            <label>Weight (kg):</label>
+            <input type="number" id="weight" required>
+            <br>
+            <label>Height (cm):</label>
+            <input type="number" id="height" required>
+            <br>
+            <label>Lifestyle:</label>
+            <select id="lifestyle">
+                <option value="1.2">Sedentary </option>
+                <option value="1.375">Lightly active </option>
+                <option value="1.55">Moderately active </option>
+                <option value="1.9">Extra active </option>
+            </select>
+            <br>
+            <label>Goal:</label>
+            <select id="goal">
+                <option value="lose">Weight Loss</option>
+                <option value="maintain">Maintain Weight</option>
+                <option value="gain">Muscle Gain</option>
+            </select>
+            <br>
+            <button type="submit" id="calculateBtn">Calculate Target Calories</button>
+        </form>
+        <br>
+        <!--Display the final result-->
+        <div id="resultCalories" style="margin-top: 15px; font-weight: bold;"></div>
+      </div>
+      
+    </div>
+
+    <!--Diet Suggestion-->
+    <!--Gluten Free-->
+    <br><br>
+    <h2 style="text-align:center; color:#00796b">Start A New Diet & Generate A Weekly Meals Plan</h2>
+    <div class="diet_container">
+      <section class="card_diet">
+        <img src="glutenFree.jpg" alt="">
+        
+         <div class="diet_content">
+            <h3 style="color:darkgreen">Gluten-free Diet</h3>
+
+            <button id="glutFreeBtn">Gluten Free</button>
+
+            <p>A gluten-free diet avoids foods containing gluten,
+                such as wheat, barley and rye.</p>
+        </div>
+      </section>
+      
+    <!--Ketogenic-->
+      <section class="card_diet">
+        <img src="ketoFood.jpg" alt="">
+        <div class="diet_content">
+            <h3 style="color:darkgreen">Ketogenic Diet</h3>
+
+            <button id="ketoBtn" value="ketogenic">Ketogenic</button>
+
+            <p>
+                A ketogenic diet focuses on high-fat, moderate-protein
+                and low-carbohydrate foods.
+            </p>
+        </div>
+        
+      </section>
+      
+    </div>
+
+    <!--js script must be at the buttom-->
+    <script src="index.js"></script>
+</body>
+
+</html>

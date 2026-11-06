@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gluten-Free Meal Plan</title>
+    <link rel="stylesheet" href="mealsHistory.css">
+</head>
+
+<body>
+    <h1>Your Meals Plan History</h1>
+    <br>
+    <form id="editForm" style="display:none; background: #f4f4f4; padding: 10px; width: fit-content; border-radius: 5px;">
+        <label>New Target Calories:</label>
+        <input type="number" id="newCalories" placeholder="Enter new calories">
+        <br>
+        <button id="saveBtn" style="background: #7D9F75; color: white; padding: 5px 10px;">Save & Update</button>
+        
+    </form>
+    <div id="mealsPlanContainer"></div>
+    <script src="view.js"></script>
+</body>
+</html>
